@@ -3,6 +3,7 @@ body {
   color: #57595c;
   background-color: #edefec;
   font-size: 16px;
+  padding: 20px;
 }
 button {
   text-align: center;
@@ -67,4 +68,35 @@ span {
 }
 #box6 {
   background-image: url("../img/san-francisco-2.jpg");
+}
+
+
+.heading {
+	text-align: center;
+}
+
+.gallery h5{
+	text-align: center;
+}
+
+.gallery {
+	margin-top: 10px;
+}
+
+.gallery img {
+	height: 100%;
+}
+
+.button-tag {
+	width: 300px;
+}
+
+.button-row {
+	padding-top: 20px;
+}
+
+.middle-text {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
